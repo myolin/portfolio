@@ -6,7 +6,7 @@ export const iOSProjects = [
                  "allow users to explore, and make reservations at a variety of restaurants "  +
                  "in Chicago. From detailed restaurant information to easy reservation options. "+
                  "TasteChicago delivers a complete packgae for all food lovers.",
-    image: "/tastechicago.png",
+    image: "tastechicago.png",
     tags: ["iOS", "SwiftUI", "Firebase", "YelpAPI"],
     demoUrl: "#",
     githubUrl: "https://github.com/myolin/TasteChicagoRestaurantApp.git",
@@ -19,7 +19,7 @@ export const iOSProjects = [
                  "collection of information and images related to cats and dogs. Whether " +
                  "you're a pet lover, a new pet owner, or just curious about these amazing " +
                  "animals, the app provides everything you need at your fingertips.",
-    image: "/catanddoglibrary.png",
+    image: "catanddoglibrary.png",
     tags: ["iOS", "SwiftUI", "REST API", "Firebase", "AI"],
     demoUrl: "#",
     githubUrl: "https://github.com/myolin/CatAndDogLibrary.git"
@@ -34,7 +34,7 @@ export const androidProjects = [
                  "Get real-time bus arrival information for all Chicago Transit Authority bus routes. Easily find nearby " +
                  "stops, get accurate predictions powered by live GPS tracking. Whether you're commuting, running errands, " +
                  "or exploring the city, CTA Bus Tracker helps you plan smarter and ride easier.",
-    image: "/ctabustracker.png",
+    image: "ctabustracker.png",
     tags: ["Android", "Java", "REST API"],
     demoUrl: "#",
     githubUrl: "https://github.com/myolin/CTABusTracker.git",
@@ -45,7 +45,7 @@ export const androidProjects = [
     description: "Follow Me GPS Tracker is a native Android app written in Java. This app allows users to share real-time location " +
                  "updates during a trip, whether traveling by car or any other mode of transportation that allows location tracking " +
                  "and internet connectivity, enabling others to follow their progress of their journey in real time.", 
-    image: "/followme.png",
+    image: "followme.png",
     tags: ["Android", "Java", "GPS", "REST API"],
     demoUrl: "#",
     githubUrl: "https://github.com/myolin/GPSTracker.git",
@@ -56,7 +56,7 @@ export const androidProjects = [
     description: "isual Crossing Weather App is a native Android app written in Java. This app displays a variety of  " +
                  "weather data for a specified location – current weather, hourly forecast, and daily forecast (15 days). " +
                  "The weather data comes from the Visual Crossing Weather API.", 
-    image: "/weatherapp.png",
+    image: "weatherapp.png",
     tags: ["Android", "Java", "GPS", "REST API"],
     demoUrl: "#",
     githubUrl: "https://github.com/myolin/WeatherApp.git",
@@ -69,7 +69,7 @@ export const webProjects = [
     title: "Netflix Clone",
     description: "A Netflix clone website utilizing MERN stack. Uses TMDB API for movies collection. " +
                  "Users can browse movies, TV shows and stream trailers.",
-    image: "/netflixclone.png",
+    image: "netflixclone.png",
     tags: ["React", "Express.js", "MongoDB", "Node.js"],
     demoUrl: "#",
     githubUrl: "https://github.com/myolin/Netflix-Web-Clone",
