@@ -51,7 +51,7 @@ export const androidProjects = [
     githubUrl: "https://github.com/myolin/GPSTracker.git",
   },
   {
-    id: 2,
+    id: 3,
     title: "Weather App",
     description: "isual Crossing Weather App is a native Android app written in Java. This app displays a variety of  " +
                  "weather data for a specified location – current weather, hourly forecast, and daily forecast (15 days). " +
@@ -66,6 +66,17 @@ export const androidProjects = [
 export const webProjects = [
   {
     id: 1,
+    title: "My Portfolio Website",
+    description: "A personal portfolio website created using ReactJS and TailWindCSS. Showcasing " +
+                 "a few personalprojects using different programming languages. Projects includes " +
+                 "Web app, Android app and iOS app", 
+    image: "portfolio.png",
+    tags: ["React", "Node.js", "TailWind CSS"],
+    demoUrl: "#",
+    githubUrl: "https://github.com/myolin/portfolio",
+  },
+  {
+    id: 2,
     title: "Netflix Clone",
     description: "A Netflix clone website utilizing MERN stack. Uses TMDB API for movies collection. " +
                  "Users can browse movies, TV shows and stream trailers.",
