@@ -81,7 +81,7 @@ const ProjectsSection = () => {
                   ))}
                 </div>
 
-                <h3 className='text-2xl font-semibold mb-1'>{project.title}</h3>
+                <h3 className='text-2xl font-semibold mb-4'>{project.title}</h3>
                 <p className='text-muted-foreground text-sm mb-4'>{project.description}</p>
                 </div>
 
