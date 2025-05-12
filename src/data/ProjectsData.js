@@ -72,7 +72,7 @@ export const webProjects = [
                  "Web app, Android app and iOS app", 
     image: "portfolio.png",
     tags: ["React", "Node.js", "TailWind CSS"],
-    demoUrl: "#",
+    demoUrl: "https://myolin.github.io/portfolio",
     githubUrl: "https://github.com/myolin/portfolio",
   },
   {
@@ -82,7 +82,7 @@ export const webProjects = [
                  "Users can browse movies, TV shows and stream trailers.",
     image: "netflixclone.png",
     tags: ["React", "Express.js", "MongoDB", "Node.js"],
-    demoUrl: "#",
+    demoUrl: "https://netflix-web-clone.onrender.com",
     githubUrl: "https://github.com/myolin/Netflix-Web-Clone",
   },
 ];
