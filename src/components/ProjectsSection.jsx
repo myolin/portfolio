@@ -52,7 +52,7 @@ const ProjectsSection = () => {
         { activeCategory === 'Web' && (
           <div className='mb-8'>
             <p className='text-xl text-red-500'>
-              Please be patient while the demo URL loads — it's hosted on Render, so it might take a minute or two to start up the server.
+              Please be patient while the demo URL loads — it's hosted on Render, so it might take a few minutes to start up the server.
             </p>
           </div>
         )}
